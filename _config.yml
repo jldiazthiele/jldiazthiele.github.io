@@ -21,6 +21,7 @@ author: José-Luis Diaz Thiele
 
 navbar-links:
   Home: "index"
+  Projects: "projects"
 
 ################
 # --- Logo --- #
