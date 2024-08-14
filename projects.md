@@ -14,6 +14,6 @@ This project is an implementation of a genetic algorithm to approximate a soluti
 [View notebook](https://github.com/jldiazthiele/ga-tsp/blob/main/ga_tsp.ipynb)
 
 Here's an example run of the algorithm:
-<img src="assets/images/tsp_animation.gif" alt="Traveling Salesman Animation">
+![Traveling Salesman Animation](assets/images/tsp_animation.gif)
 
 ## University projects.
