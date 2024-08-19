@@ -4,9 +4,10 @@ title: Projects
 ---
 
 Discover the projects I worked on.
-This page is a work-in-progress.
 
 ## Personnal projects.
+
+---
 
 ### Genetic algorithm for the Traveling Salesman Problem
 
@@ -18,3 +19,4 @@ Here's an example run of the algorithm:
 ![Traveling Salesman Animation](https://jldiazthiele.github.io/assets/img/tsp_animation.gif)
 
 ## University projects.
+---
