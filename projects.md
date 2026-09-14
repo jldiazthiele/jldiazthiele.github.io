@@ -27,4 +27,4 @@ The aim of this project was to train a reinforcement learning agent to control t
 
 The project involved developping the surrounding simulation of an adaptive optics system and the associated reinforcement learning environment, researching and implementing suitable architectures for the policy and value networks as well as the feature extractor of the agent, and training and evaluating reinforcement learning agents. The reinforcement learning agents achieved near optimal corrections on average, showing the effectiveness of the reinforcement learnign approach for focal plane wavefront control.
 
-
+![Reinforcement learning agent controlling the deformable mirror](https://jldiazthiele.github.io/assets/img/simulation.png)
